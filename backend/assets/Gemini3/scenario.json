@@ -1,0 +1,62 @@
+{
+  "title": "별의 속삭임 (Starlight Whisper)",
+  "mood": "dreamy, innocent, refreshing, sparkling",
+  "color_grading": "Soft pastel tones with high-key lighting, slightly overexposed whites for an angelic glow, emphasizing cyan, lemon yellow, and lavender highlights.",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration": 8,
+      "description": "새벽녘의 차가운 푸른빛이 감도는 도시의 옥상, 루나(LUNA)가 하늘을 올려다보며 손을 뻗습니다. 그녀의 손끝에서 작은 별빛 조각이 떨어지며 삭막한 콘크리트 바닥에 꽃이 피어나기 시작합니다.",
+      "visual_concept": "Cinematic wide shot of a solitary rooftop at dawn, bathed in cool blue twilight. A delicate figure in a flowing white chiffon dress stands at the edge, reaching towards the fading stars. Magical glowing particles drift from the sky, transforming the gray concrete into a blooming garden of ethereal white flowers. Soft, dreamlike volumetric lighting.",
+      "camera_movement": "slow push-in towards the character's back, then slight tilt up to the sky",
+      "lighting": "Cool dawn ambient light with a soft, warm rim light on the character representing the morning sun",
+      "member_focus": "m1",
+      "emotion": "mysterious",
+      "transition_to_next": "dissolve"
+    },
+    {
+      "scene_number": 2,
+      "duration": 8,
+      "description": "햇살이 쏟아지는 교실 창가, 써니(SUNNY)가 턱을 괴고 밖을 보다가 카메라를 발견하고 장난스럽게 윙크합니다. 그녀의 주변으로 무지개색 프리즘 빛이 춤을 추며 교실의 먼지들이 반짝이는 가루로 변합니다.",
+      "visual_concept": "Bright, high-key classroom setting with large windows letting in intense golden sunlight. A playful girl with a strawberry blonde bob sits at a desk, surrounded by floating dust motes that sparkle like glitter. Rainbow lens flares and prism effects dance across the frame. The atmosphere is vibrant, warm, and full of youthful energy.",
+      "camera_movement": "handheld style tracking shot moving closer, reacting to the wink",
+      "lighting": "Strong natural sunlight diffusing through sheer curtains, creating a soft bloom effect",
+      "member_focus": "m2",
+      "emotion": "powerful",
+      "transition_to_next": "whip pan"
+    },
+    {
+      "scene_number": 3,
+      "duration": 8,
+      "description": "보랏빛 노을이 지는 몽환적인 놀이공원, 스타(STAR)가 회전목마 앞에 서서 비눗방울을 불고 있습니다. 비눗방울 안에는 도시 사람들의 잊혀진 꿈들이 홀로그램처럼 비치고, 그녀는 신비로운 표정으로 그것을 바라봅니다.",
+      "visual_concept": "Dreamy amusement park at magic hour with a purple and pink sunset sky. A doll-like girl in a lavender sweater stands before a glowing carousel. She blows soap bubbles that reflect miniature, holographic dreamscapes inside them. The scene is surreal and soft, with a hazy, nostalgic filter applied to the background lights.",
+      "camera_movement": "slow orbit around the character, focusing on the reflection in the bubbles",
+      "lighting": "Soft purple and pink ambient light from the sunset, mixed with the warm yellow glow of the carousel lights",
+      "member_focus": "m3",
+      "emotion": "ethereal",
+      "transition_to_next": "zoom in"
+    },
+    {
+      "scene_number": 4,
+      "duration": 8,
+      "description": "밤하늘 아래 세 멤버가 모두 모여 서로의 손을 잡자, 그들의 중심에서 거대한 빛의 기둥이 하늘로 솟구칩니다. 루나(LUNA)가 대표로 카메라를 응시하며 'Shine on you'라고 속삭이듯 입모양을 합니다.",
+      "visual_concept": "Night scene on a grassy hill under a starry sky. Three girls stand in a circle holding hands, radiating a soft inner glow. A beam of pure starlight erupts from their joined hands, illuminating the night. The central figure looks directly into the lens with a gentle, reassuring smile, wind blowing through her hair.",
+      "camera_movement": "crane up starting from eye level to a high angle looking down at the light beam",
+      "lighting": "Dark night background contrasted by a bright, divine white light emanating from the center of the group",
+      "member_focus": "m1",
+      "emotion": "fierce",
+      "transition_to_next": "fade to white"
+    }
+  ],
+  "music_direction": {
+    "genre": "Synth-pop / Acoustic Pop",
+    "tempo": "medium",
+    "mood_keywords": [
+      "refreshing",
+      "hopeful",
+      "sparkling"
+    ],
+    "lyrics_hint": "잿빛 도시 위로 내려온 우리 / 너의 꿈을 다시 비춰줄게 Shine on you",
+    "instrumental_style": "Starts with a clear acoustic guitar riff, building up with sparkling bell sounds and a driving synth bass."
+  }
+}

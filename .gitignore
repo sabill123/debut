@@ -1,0 +1,16 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.build/
+.swiftpm/
+.DS_Store
+.next/
+node_modules/
+spec-mix/
+.spec-mix/
+.claude/
+CLAUDE.md
+eval.md
+info.md
+ai-gateway-api-guide.md
